@@ -1,0 +1,23 @@
+body {
+    color:aliceblue;
+    font-family: inherit,verdana,sans-serif;
+    font-size: 18px;
+    background-image: url(background.jpg);
+    background-size: cover;
+    width:%50;
+
+}
+
+img{width:%120;
+border: 4px dotted darkblue;
+    border-radius:px;
+    display:block;
+    margin: auto;
+}
+
+h1{border-bottom: 10px solid aliceblue;
+text-align: center;
+background-blend-mode: darken;
+background-color:blue;}
+
+#paragraf1 {text-align: center;}
